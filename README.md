@@ -1,13 +1,3 @@
-# React-Router-Vending-Machine
-
-*There is no starter code for this.*
-
-For this assignment, you should use the React Router to build a vending machine! Make sure you install the React Router:
-
-```bash
-$ npm install react-router-dom
-```
-
 # **React Router Vending Machine[»](https://curric.rithmschool.com/springboard/exercises/react-router-vending/#react-router-vending-machine)**
 
 *There is no starter code for this.*
