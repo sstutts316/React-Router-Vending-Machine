@@ -1,0 +1,29 @@
+.vending-machine {
+  background-color: #555;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+}
+
+.vending-machine h1 {
+  color: #ffd700;
+}
+
+.snack-link {
+  display: inline-block;
+  background-color: #ffd700;
+  color: #333;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.snack-link:hover {
+  background-color: #f0c040;
+}

@@ -1,0 +1,26 @@
+.snack-page {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.snack-page h1 {
+  color: #333;
+}
+
+.snack-page p {
+  color: #666;
+}
+
+.back-link {
+  display: inline-block;
+  background-color: #ddd;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.back-link:hover {
+  background-color: #ccc;
+}
